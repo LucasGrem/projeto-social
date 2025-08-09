@@ -26,4 +26,4 @@ Este projeto foi desenvolvido durante as aulas do **Curso em Vídeo** ministrado
   
 ---
 
-Desenvolvido por **Lucas Grem*
+Desenvolvido por **Lucas Grem**

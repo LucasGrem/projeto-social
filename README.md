@@ -23,5 +23,7 @@ Este projeto foi desenvolvido durante as aulas do **Curso em Vídeo** ministrado
 - Trabalhar posicionamento CSS para criar interfaces estilizadas e centralizadas
 - Aplicar efeitos visuais em elementos interativos (hover, sombras, transições)
 - Integrar diversas páginas em um único ambiente web
+  
+---
 
-## Desenvolvido por **Lucas Grem**
+Desenvolvido por **Lucas Grem*
